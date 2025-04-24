@@ -1,0 +1,18 @@
+[GENERATED OBJECT FILE]
+b__hello_world.o
+[PROJECT FILES]
+/home/niv0se/projects/helloworld/hello_world.gpr
+20250424034550 b0d1fe4bc32124f607fb9ca8e5bd56bb
+[BOUND OBJECT FILES]
+/home/niv0se/projects/helloworld/.objs/hello_world.o
+[GENERATED SOURCE FILES]
+b__hello_world.ads
+b__hello_world.adb
+b__hello_world.ali
+[RESULTING OPTIONS]
+-L/home/niv0se/projects/helloworld/.objs/
+-L/home/niv0se/projects/helloworld/.objs/
+-L/usr/lib/gcc/x86_64-linux-gnu/14/adalib/
+-shared
+-lgnat-14
+-ldl
